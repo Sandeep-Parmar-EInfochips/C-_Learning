@@ -1,0 +1,2 @@
+g++ -std=c++11 exp3.cpp -lUnitTest++ -I/usr/local/include/UnitTest++
+
